@@ -1,0 +1,16 @@
+{
+    "generation_settings": {
+        "code_length": 16
+    },
+    "checking_settings": {
+        "sleep_double_time_on_ratelimit": false,
+        "sleep_on_ratelimit": true,
+        "use_random_user_agent": true
+    },
+    "display_settings": {
+        "use_color_on_check": true,
+        "use_color_on_input": true,
+        "use_color_on_rate_limit": true,
+        "display_code_with_url": false
+    }
+}
