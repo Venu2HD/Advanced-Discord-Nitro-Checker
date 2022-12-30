@@ -1,3 +1,5 @@
+# Advanced Discord Nitro Checker
+---
 ## Install
   ### 🐧Linux/Unix🐧
   Open a terminal
