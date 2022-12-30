@@ -1,6 +1,7 @@
 # Advanced Discord Nitro Checker
 ---
 ## Install
+  ### LINUX NOT WORKING
   ### 🐧Linux/Unix🐧
   Open a terminal
   ```
